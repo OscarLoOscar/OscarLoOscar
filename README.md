@@ -3,9 +3,9 @@
 ![](https://img.shields.io/badge/Working%20Tools-VS%20Code-blue)
 
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate junior developer from Hong Kong</h3>
+<h3 align="center">Developer from Hong Kong</h3>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 **JAVA**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
