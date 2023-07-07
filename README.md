@@ -3,8 +3,7 @@
 ![](https://img.shields.io/badge/Working%20Tools-VS%20Code-blue)
 
 
-<h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">Developer from Hong Kong</h3>
+
 
 - 🌱 **JAVA**
 - 🌱 **SQL**
