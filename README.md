@@ -51,17 +51,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=oscarlo_oscar&show_icons=true&theme=radical" alt="oscarlo_oscar" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oscarlo_oscar&theme=radical" alt="oscarlo_oscar" />
-</p>
-
----
-
 ### 📫 Connect with me:
 - **LeetCode:** [oscarlo_oscar](https://leetcode.com/oscarlo_oscar/)
